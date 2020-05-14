@@ -1,0 +1,29 @@
+body {
+    background: #E1EFF6;
+}
+h2 {
+    color: #1460AA;
+}
+h3 {
+    color: #cf0f0f;
+}
+footer {
+    color: hotpink;
+}
+
+.nav-link {
+    color: #474350;
+    font-weight: bold;
+}
+
+.main-header {
+    color: #FC7753
+}
+
+.questions {
+    color: #57E2E5
+}
+
+.skills {
+    color: #60B2E5
+}
