@@ -12,10 +12,18 @@ footer {
     ;
 }
 
-.nav-link {
+.top-navigation__link{
     color: #474350;
     font-weight: bold;
+    background-color: #57E2E5;
+    margin: 1px;
+    border: solid #57E2E5 5px;
+    border-radius: 8px;
 }
+.top-navigation--special-link{
+    color: #FC7753;
+}
+    
 
 .main-header {
     color: #FC7753
