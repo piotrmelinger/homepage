@@ -28,8 +28,17 @@ footer {
 .main-header {
     color: #FC7753
 }
+.about{
 
-.questions {
+}
+.about__description{
+
+}
+.about__photo {
+    border-radius: 50%;
+    border: solid #FC7753 10px;
+}
+.about__title {
     color: #57E2E5
 }
 
