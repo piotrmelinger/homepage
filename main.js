@@ -8,3 +8,6 @@ console.log("heloł ewryłan");
 console.log(
   `Cześć, mam na imię ${firstName}, urodziłem się w ${city} i mam ${age} lata`
 );
+
+const about = document.querySelector(".about__name--js");
+about.innerHTML = `Cześć, mam na imię ${firstName}, urodziłem się w ${city} i mam ${age} lata`;
