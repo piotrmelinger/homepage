@@ -57,3 +57,7 @@ footer {
 }
 .footer__navigation{
     }
+.main {
+    margin: 0px auto;
+    max-width: 1000px;
+}
