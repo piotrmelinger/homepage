@@ -1,47 +1,46 @@
 body {
-    background: #E1EFF6;
-}
-h2 {
-    color: #1460AA;
-}
-h3 {
-    color: #cf0f0f;
-}
-footer {
-    color: blue;
-    ;
+  background: #e1eff6;
 }
 
-.top-navigation__link{
-    color: #474350;
-    font-weight: bold;
-    background-color: #57E2E5;
-    margin: 1px;
-    border: solid #57E2E5 5px;
-    border-radius: 8px;
+footer {
+  color: blue;
 }
-.top-navigation--special-link{
-    color: #FC7753;
+
+.top-navigation__link {
+  color: #474350;
+  font-weight: bold;
+  background-color: #57e2e5;
+  margin: 1px;
+  border: solid #57e2e5 5px;
+  border-radius: 8px;
 }
-    
+.top-navigation--special-link {
+  color: #fc7753;
+}
 
 .main-header {
-    color: #FC7753
+  color: #fc7753;
 }
-.about{
-
+.about {
 }
-.about__description{
-
+.about__description {
 }
 .about__photo {
-    border-radius: 50%;
-    border: solid #FC7753 10px;
+  border-radius: 50%;
+  border: solid #fc7753 10px;
+  max-width: 100px;
+  max-height: 100px;
 }
 .about__title {
-    color: #57E2E5
+  color: #1460aa;
+}
+.skills {
+  color: #60b2e5;
 }
 
-.skills {
-    color: #60B2E5
+.learning__language {
+    color: #60b2e5;
+}
+.learning__title {
+    color: #1460aa
 }
