@@ -18,7 +18,7 @@ footer {
   color: #fc7753;
 }
 
-.main-header {
+.main__header {
   color: #fc7753;
 }
 .about {
@@ -44,3 +44,16 @@ footer {
 .learning__title {
     color: #1460aa
 }
+.footer {
+    }
+.footer__link{
+    color:  color: #474350;
+    font-weight: bold;
+    background-color: #57e2e5;
+    margin: 5px;
+    border: solid #57e2e5 5px;
+    border-radius: 8px;
+    display : inline-block;
+}
+.footer__navigation{
+    }
